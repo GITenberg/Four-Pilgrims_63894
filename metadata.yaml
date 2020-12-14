@@ -1,12 +1,17 @@
 _repo: Four-Pilgrims_63894
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 4 Pilgrims
+covers:
+- cover_type: archival
+  image_path: 63894-h/images/cover.jpg
 creator:
   author:
     agent_name: Boulting, William
     gutenberg_agent_id: '52654'
     url: http://www.gutenberg.org/2009/agents/52654
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63894#Four-Pilgrims
 gutenberg_issued: '2020-11-27'
 gutenberg_type: Text
 identifiers:
